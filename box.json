@@ -1,0 +1,37 @@
+{
+    "name":"ContentBox Form Builder",
+    "shortDescription":"A nice module to help you build and collect form data.",
+    "location":"https://github.com/contentbox-modules/contentbox-formbuilder/archive/v2.0.0.zip",
+    "version":"2.0.0",
+    "slug":"contentbox-formbuilder",
+    "author":"Ortus Solutions <info@ortussolutions.com>",
+    "homepage":"https://github.com/contentbox-modules/contentbox-formbuilder",
+    "documentation":"https://github.com/contentbox-modules/contentbox-formbuilder",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/contentbox-modules/contentbox-formbuilder"
+    },
+    "bugs":"https://github.com/contentbox-modules/contentbox-formbuilder/issues",
+    "type":"contentbox-modules",
+    "license":[
+        {
+            "type":"Apache2",
+            "url":"http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+    },
+    "ignore":[
+        "**/.*",
+        "tests",
+        "screenshots"
+    ]
+}
